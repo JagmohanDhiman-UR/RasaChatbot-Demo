@@ -1,0 +1,205 @@
+## intent:affirm
+- yeah
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- sure
+- yeah thats correct
+- yes yes
+- right
+- yea
+- yes
+- yes right
+- yes and i dont care
+- right on
+- i love that
+- yes
+
+## intent:deny
+- no
+- no new selection
+- no thanks
+- no thank you
+- uh no
+- breath no
+- do you have something else
+- no this does not work for me
+
+## intent:greet
+- hey
+- hello
+- hi
+- heya
+- howdy
+- hey there
+- holla
+- hi
+
+## intent:int_goodbye
+- see you later
+- see ya
+- bye bye
+- bye
+- that's all
+- that all from my side
+- that enough for now
+- enough for now
+- done from my side
+- goodbye
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+
+## intent:int_transaction_status
+- What is the status of my transaction [FDC2002061298400](transactionID)
+- I need to know the status of my transaction [FDC2002061298400](transactionID)
+- how do I know the status of my transaction [FDC2002061298400](transactionID)
+- transaction [FDC2002061298400](transactionID) status
+- status transaction [FDC2002061298400](transactionID)
+- status of transaction [FDC2002061298400](transactionID)
+- Where is my transaction [FDC2002061298400](transactionID)
+- give me info on my transaction [FDC2002061298400](transactionID)
+- dude where is my transaction [FDC2002061298400](transactionID)
+- where is my transaction [FDC2002061298400](transactionID) stuck?
+- status of my transaction [FDC2002061298400](transactionID)
+- [FDC2002061298400](transactionID)
+- transaction id is [FDC2002061298400](transactionID)
+- give it for [FDC2002061298400](transactionID)
+- What is the status of my transaction [F5S2002064165200](transactionID)
+- I need to know the status of my transaction [F5S2002064165200](transactionID)
+- how do I know the status of my transaction [F5S2002064165200](transactionID)
+- transaction [F5S2002064165200](transactionID) status
+- status transaction [F5S2002064165200](transactionID)
+- status of transaction [F5S2002064165200](transactionID)
+- Where is my transaction [F5S2002064165200](transactionID)
+- give me info on my transaction [F5S2002064165200](transactionID)
+- dude where is my transaction [F5S2002064165200](transactionID)
+- where is my transaction [F5S2002064165200](transactionID) stuck?
+- status of my transaction [F5S2002064165200](transactionID)
+- [F5S2002064165200](transactionID)
+- [F5S2002064165200](transactionID) status
+- give it for [F5S2002064165200](transactionID)
+- transaction id is [F5S2002064165200](transactionID)
+- What is the status of my transaction [FDC2002061297801](transactionID)
+- I need to know the status of my transaction [FDC2002061297801](transactionID)
+- how do I know the status of my transaction [FDC2002061297801](transactionID)
+- transaction [FDC2002061297801](transactionID) status
+- status transaction [FDC2002061297801](transactionID)
+- status of transaction [FDC2002061297801](transactionID)
+- Where is my transaction [FDC2002061297801](transactionID)
+- give me info on my transaction [FDC2002061297801](transactionID)
+- dude where is my transaction [FDC2002061297801](transactionID)
+- where is my transaction [FDC2002061297801](transactionID) stuck?
+- status of my transaction [FDC2002061297801](transactionID)
+- [FDC2002061297801](transactionID)
+- transaction id is [FDC2002061297801](transactionID)
+- how do I know the status of my transaction
+- transaction status
+- status transaction
+- status of transaction
+- Where is the transaction status
+- give me info transaction status
+
+## intent:stop
+- ok then you cant help me
+- that was shit, you're not helping
+- you can't help me
+- you can't help me with what i need
+- i guess you can't help me then
+- ok i guess you can't help me
+- that's not what i want
+- ok, but that doesnt help me
+- this is leading to nothing
+- this conversation is not really helpful
+- you cannot help me with what I want
+- I think you cant help me
+- hm i don't think you can do what i want
+- stop
+- stop go back
+- do you get anything?
+- and you call yourself bot company? pff
+- and that's it?
+- nothing else?
+
+## intent:transaction_summary
+- hey! I want to know my transaction summary
+- can you provide me transaction summary
+- please provide list of all my transactions
+- is it possible to get latest transactions
+- my transaction summary
+- transaction history from [09-02-2017](date) to [09-05-2018](date)
+- show me all my transactions
+- summary of all my transactions
+- list of my transactions
+- What are all my transactions I have done in last month?
+- give me the transaction summary from [09-02-2019](date) to [09-02-2020](date)
+- show me all my transactions in [09-03-2019](date) to [09-02-2020](date) time
+- [09-03-2019](date) to [09-02-2020](date)
+- show me all my transactions in [12-03-2019](date) to [01-02-2020](date) time
+- give me the transaction summary from [12-02-2019](date) to [09-05-2020](date)
+- show me all my transactions in [09-03-2016](date) to [09-02-2018](date) time
+- [09-03-2013](date) to [09-02-2015](date)
+- show me all my transactions in [12-04-2019](date) to [01-02-2020](date) time
+- give me the transaction summary from [09-02-2017](date) to [09-08-2018](date)
+- show me all my transactions in [11-03-2019](date) to [12-01-2019](date) time
+- [09-03-2019](date) to [09-02-2020](date)
+- show me all my transactions in [12-03-2019](date) to [01-02-2020](date) time
+- give me the transaction summary from [1-4-2020](date) to [2-5-2020](date)
+- show me all my transactions in [9-3-2019](date) to [4-1-2020](date) time
+- [9-3-2018](date) to [9-2-2020](date)
+- show me all my transactions in [12-3-2019](date) to [1-2-2020](date) time
+- give me the transaction summary from [9-2-2019](date) to [9-2-2020](date)
+- show me all my transactions in [9-28-2019](date) to [9-29-2020](date) time
+- [31-10-2019](date) to [09-02-2020](date)
+- show me all my transactions in [12-3-2019](date) to [5-2-2019](date) time
+- transaction summary
+- [12-3-2019](date)
+- [12-5-2020](date)
+- [31-10-2019](date)
+- [19-02-2020](date)
+- from [2-10-2020](date) to [2-11-2020](date)
+- from [2-12-2020](date) to [2-13-2020](date)
+- from [2-14-2020](date) to [2-15-2020](date)
+- from [2-16-2020](date) to [2-17-2020](date)
+- from [2-2-2020](date) to [2-3-2020](date)
+- from [2-4-2020](date) to [2-5-2020](date)
+- from [2-6-2020](date) to [2-7-2020](date)
+- transaction summary
+- [2-1-2020](date)
+- [2-2-2020](date)
+
+## regex:date
+^\d{1,2}-\d{1,2}-\d{4}$
+
+## regex:transactionID
+- [a-z0-9-]{36}|[A-Z0-9]{13,19}|[A-Z0-9-]{15}|[A-Z0-9\/]{10,12}
